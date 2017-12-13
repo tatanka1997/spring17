@@ -1,0 +1,4 @@
+Welcome to Survey Guys! 
+This is a simple site that holds two survey questions at a time: A survey of the day and a survey of the Week! Above you can select either survey, answer the questions and view the results. 
+The administrator can log in, add different questions, and change the two active questions. 
+Have Fun!
