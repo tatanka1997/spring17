@@ -8,7 +8,7 @@
     
     <body>
         <div id="topnav">
-            <div id="logo"><span style="font-size:20px;">Videoteka</span>Uni<span style="color:rgb(251,13,27);">Versal</span></div>
+            <div id="logo"><span style="font-size:20px;">Videoteka</span>Universal<span style="color:rgb(251,13,27);"></span></div>
             <img src="img/other/Hamburger_icon.png" id="menuBtn" onclick="sideBar()">
         </div>
         
